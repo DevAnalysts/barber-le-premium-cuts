@@ -28,15 +28,22 @@ const App: React.FC = () => {
   }, []);
 
   const portfolioImages = [
-    'https://images.unsplash.com/photo-1585747860715-2ba37e788b70?auto=format&fit=crop&q=80&w=600', // Interior
-    'https://images.unsplash.com/photo-1503951914875-452162b0f3f1?auto=format&fit=crop&q=80&w=600', // Close up fade
-    'https://images.unsplash.com/photo-1621605815841-aa897bd07b4c?auto=format&fit=crop&q=80&w=600', // Action shot
-
-     '/assets/img/1.jpg', // Beard trim
-    // 'https://images.unsplash.com/photo-1512690196236-4bab3b47971e?auto=format&fit=crop&q=80&w=600', // Tools
-    // 'https://images.unsplash.com/photo-1599351431202-1e0f0137899a?auto=format&fit=crop&q=80&w=600', // Finished style
-    // 'https://images.unsplash.com/photo-1534349762230-e0cadf78f5db?auto=format&fit=crop&q=80&w=600', // Barber shop vibe
-    // 'https://images.unsplash.com/photo-1622286332303-073844890666?auto=format&fit=crop&q=80&w=600'  // Sharp edge
+    '/assets/img/1.jpg',
+    '/assets/img/2.jpg',
+    '/assets/img/3.jpg',
+    '/assets/img/4.jpg',
+    '/assets/img/5.jpg',
+    '/assets/img/6.jpg',
+    '/assets/img/7.jpg',
+    '/assets/img/8.jpg',
+    '/assets/img/9.jpg',
+    '/assets/img/10.jpg',
+    '/assets/img/11.jpg',
+    '/assets/img/12.jpg',
+    '/assets/img/13.jpg',
+    '/assets/img/14.jpg',
+    '/assets/img/15.jpg',
+    '/assets/img/16.jpg'
   ];
 
   return (
