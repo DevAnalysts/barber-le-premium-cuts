@@ -65,7 +65,7 @@ const Hero: React.FC<HeroProps> = ({ onNavigate }) => {
         <div className="hidden md:flex justify-end relative">
           <div className="relative w-full max-w-md aspect-[3/4] overflow-hidden rounded-2xl border-2 border-zinc-800 shadow-2xl shadow-amber-500/10 group">
             <img 
-              src="https://images.unsplash.com/photo-1590540179852-2110a54f813a?auto=format&fit=crop&q=80&w=800" 
+              src="/assets/img/1.jpg"
               alt="Barber Le Puyallup" 
               className="object-cover w-full h-full group-hover:scale-110 transition-transform duration-700"
             />
